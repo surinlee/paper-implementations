@@ -1,4 +1,5 @@
 # Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Differential Equations
+[https://arxiv.org/abs/1804.07010](https://arxiv.org/abs/1804.07010)
 
 **Author:** Maziar Raissi 
 
