@@ -19,6 +19,6 @@ This repository contains personal implementations of major ML/AI papers
     4.1. One-dimensional pure jump equation
 
 ### Each folder includes:
-- Code (PyTorch, TensorFlow, etc.)
+- Code (PyTorch,Numpy, Matplotlib, etc.)
 - Summary and insights
 - My notes and experimental results
