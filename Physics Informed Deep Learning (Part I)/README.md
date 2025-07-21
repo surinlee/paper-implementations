@@ -20,7 +20,7 @@ The authors introduce Physics-Informed Neural Networks (PINNs), a framework that
 - The neural network is trained to satisfy both the PDE and boundary/initial conditions.  
 - This notebook reproduces the example presented in the paper.
   
-**[expirement output]**
+**[expirement output]:**
 <p align="center">
   <img src="output.png" height="400"/>
 </p>
