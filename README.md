@@ -14,7 +14,7 @@ This repository contains personal implementations of major **Machine Learning fo
 
     Implemented Example: 4.3. Allen-Cahn Equation in 20D
 
-- [FBSJNN: A THEORETICALLY INTERPRETABLE AND EFFICIENTLY DEEP LEARNING METHOD FOR SOLVING PARTIAL INTEGRO-DIFFERENTIAL EQUATIONS](https://arxiv.org/abs/2412.11010)
+- [FBSJNN: A THEORETICALLY INTERPRETABLE AND EFFICIENTLY DEEP LEARNING METHOD FOR SOLVING PARTIAL INTEGRO-DIFFERENTIAL EQUATIONS](https://github.com/surinlee/paper-implementations/tree/main/FBSJNN)
 
     4.1. One-dimensional pure jump equation
 
