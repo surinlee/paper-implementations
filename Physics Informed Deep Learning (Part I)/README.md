@@ -1,5 +1,6 @@
 # Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations
-[Paper URL](https://arxiv.org/abs/1711.10561)
+[(https://arxiv.org/abs/1711.10561](https://arxiv.org/abs/1711.10561)
+
 Authors : Maziar Raissi, Paris Perdikaris, George Em Karniadakis
 
 ## Paper Overview
