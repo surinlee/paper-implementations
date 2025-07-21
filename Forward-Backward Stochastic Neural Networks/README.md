@@ -16,10 +16,10 @@ Reformulate deterministic high-dimensional PDEs as systems of forward-backward s
 - Learns both solution and its gradient simultaneously
 - No need for labeled training data from PDE solutions
 
-## Applications  
+## Applications 
+- **High-dimensional control problems**
 - Quantitative finance (e.g., pricing of derivatives)
 - Physics-informed simulations
-- High-dimensional control problems
 - Uncertainty quantification
 
 ## Implemented Example
