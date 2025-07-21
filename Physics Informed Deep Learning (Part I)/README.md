@@ -2,7 +2,7 @@
 
 Maziar Raissi, Paris Perdikaris, George Em Karniadakis
 
-## Paper Overviewt
+## Paper Overview
 The authers introduce Physics-Informed Neural Networks (PINNs), a framework that integrates physical laws, such as nonlinear partial differential equations (PDEs), directly into the training of neural networks. This allows for accurate solutions even with limited or noisy data.
 
 - **Key idea:** Incorporate the PDE residual as a term in the loss function so the network learns to satisfy the underlying physical laws.  
@@ -19,7 +19,7 @@ The authers introduce Physics-Informed Neural Networks (PINNs), a framework that
 - The neural network is trained to satisfy both the PDE and boundary/initial conditions.  
 - This notebook reproduces the example presented in the paper.
 - 
-**expirement output**
+**[expirement output]**
 <p align="center">
   <img src="output.png" height="400"/>
 </p>
