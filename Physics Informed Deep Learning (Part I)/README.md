@@ -25,7 +25,9 @@ The authers introduce Physics-Informed Neural Networks (PINNs), a framework that
 </p>
 
 ### My Insight
+
 There is a singularity (or a challenging region) concentrated around the interval  [−1,1], so sampling more points in the x-grid within this area could improve the results. Also, my current code does not use a scheduler; I believe increasing the number of epochs and incorporating a scheduler would help further reduce the error.
+
 ---
 
 ## File Contents
