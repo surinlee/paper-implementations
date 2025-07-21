@@ -1,9 +1,9 @@
 # Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations
-
-Maziar Raissi, Paris Perdikaris, George Em Karniadakis
+[Paper URL](https://arxiv.org/abs/1711.10561)
+Authors : Maziar Raissi, Paris Perdikaris, George Em Karniadakis
 
 ## Paper Overview
-The authers introduce Physics-Informed Neural Networks (PINNs), a framework that integrates physical laws, such as nonlinear partial differential equations (PDEs), directly into the training of neural networks. This allows for accurate solutions even with limited or noisy data.
+The authors introduce Physics-Informed Neural Networks (PINNs), a framework that integrates physical laws, such as nonlinear partial differential equations (PDEs), directly into the training of neural networks. This approach enables accurate solutions even with limited or noisy data.
 
 - **Key idea:** Incorporate the PDE residual as a term in the loss function so the network learns to satisfy the underlying physical laws.  
 - **Advantages:**  
