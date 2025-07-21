@@ -8,7 +8,7 @@ This repository contains personal implementations of major ML/AI papers
 
 - [The Deep Ritz method: A deep learning-based numerical algorithm for solving variational problems](https://arxiv.org/abs/1710.00211)
   
-    3.1 The Poisson equation in two dimension
+    3.1. The Poisson equation in two dimension
 
 - [Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Diﬀerential Equations](https://arxiv.org/abs/1804.07010)
 
@@ -19,6 +19,6 @@ This repository contains personal implementations of major ML/AI papers
     4.1. One-dimensional pure jump equation
 
 ### Each folder includes:
-- Code (PyTorch,Numpy, Matplotlib, etc.)
+- Code (PyTorch, Numpy, Matplotlib, etc.)
 - Summary and insights
 - My notes and experimental results
