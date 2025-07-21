@@ -2,13 +2,21 @@
 This repository contains personal implementations of major ML/AI papers
 
 ## Papers Included
-- [Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations](https://arxiv.org/abs/1711.10561)_2.2. Example (Shr¨odinger Equation)
+- [Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations](https://arxiv.org/abs/1711.10561)
 
-- [The Deep Ritz method: A deep learning-based numerical algorithm for solving variational problems](https://arxiv.org/abs/1710.00211)_3.1 The Poisson equation in two dimension
+    2.2. Example (Shr¨odinger Equation)
 
-- [Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Diﬀerential Equations](https://arxiv.org/abs/1804.07010)_4.3. Allen-Cahn Equation in 20D
+- [The Deep Ritz method: A deep learning-based numerical algorithm for solving variational problems](https://arxiv.org/abs/1710.00211)
+  
+    3.1 The Poisson equation in two dimension
 
-- [FBSJNN: A THEORETICALLY INTERPRETABLE AND EFFICIENTLY DEEP LEARNING METHOD FOR SOLVING PARTIAL INTEGRO-DIFFERENTIAL EQUATIONS](https://arxiv.org/abs/2412.11010)_4.1. One-dimensional pure jump equation
+- [Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Diﬀerential Equations](https://arxiv.org/abs/1804.07010)
+
+    4.3. Allen-Cahn Equation in 20D
+
+- [FBSJNN: A THEORETICALLY INTERPRETABLE AND EFFICIENTLY DEEP LEARNING METHOD FOR SOLVING PARTIAL INTEGRO-DIFFERENTIAL EQUATIONS](https://arxiv.org/abs/2412.11010)
+
+    4.1. One-dimensional pure jump equation
 
 ### Each folder includes:
 - Code (PyTorch, TensorFlow, etc.)
