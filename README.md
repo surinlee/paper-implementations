@@ -9,3 +9,8 @@ This repository contains personal implementations of major ML/AI papers
 -[Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Diﬀerential Equations](https://arxiv.org/abs/1804.07010)_4.3. Allen-Cahn Equation in 20D
 
 -[FBSJNN: A THEORETICALLY INTERPRETABLE AND EFFICIENTLY DEEP LEARNING METHOD FOR SOLVING PARTIAL INTEGRO-DIFFERENTIAL EQUATIONS](https://arxiv.org/abs/2412.11010)_4.1. One-dimensional pure jump equation
+
+### Each folder includes:
+- Code (PyTorch, TensorFlow, etc.)
+- Summary and insights
+- My notes and experimental results
