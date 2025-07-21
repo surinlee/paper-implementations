@@ -10,7 +10,7 @@ This repository contains personal implementations of major ML/AI papers
   
     3.1. The Poisson equation in two dimension
 
-- [Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Diﬀerential Equations](https://arxiv.org/abs/1804.07010)
+- [Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Diﬀerential Equations](https://github.com/surinlee/paper-implementations/tree/main/Forward-Backward%20Stochastic%20Neural%20Networks)
 
     4.3. Allen-Cahn Equation in 20D
 
