@@ -4,7 +4,7 @@ This repository contains personal implementations of major ML/AI papers
 ## Papers Included
 - [Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations](https://arxiv.org/abs/1711.10561)
 
-    2.2. Example (Shrödinger Equation)
+    2.2. Example (Schrödinger Equation)
 
 - [The Deep Ritz method: A deep learning-based numerical algorithm for solving variational problems](https://arxiv.org/abs/1710.00211)
   
