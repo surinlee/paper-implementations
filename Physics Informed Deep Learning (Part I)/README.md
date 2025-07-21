@@ -19,7 +19,7 @@ The authors introduce Physics-Informed Neural Networks (PINNs), a framework that
 - Implemented the PINN approach to solve the Schrödinger equation as described in Section 2.2 of the paper.  
 - The neural network is trained to satisfy both the PDE and boundary/initial conditions.  
 - This notebook reproduces the example presented in the paper.
-- 
+  
 **[expirement output]**
 <p align="center">
   <img src="output.png" height="400"/>
