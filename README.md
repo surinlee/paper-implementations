@@ -8,7 +8,7 @@ This repository contains personal implementations of major **Machine Learning fo
 
 - [The Deep Ritz method: A deep learning-based numerical algorithm for solving variational problems](https://arxiv.org/abs/1710.00211)
   
-    3.1. The Poisson equation in two dimension
+    Implemented Example: 3.1. The Poisson equation in two dimension
 
 - [Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Diﬀerential Equations](https://github.com/surinlee/paper-implementations/tree/main/Forward-Backward%20Stochastic%20Neural%20Networks)
 
@@ -16,7 +16,7 @@ This repository contains personal implementations of major **Machine Learning fo
 
 - [FBSJNN: A THEORETICALLY INTERPRETABLE AND EFFICIENTLY DEEP LEARNING METHOD FOR SOLVING PARTIAL INTEGRO-DIFFERENTIAL EQUATIONS](https://github.com/surinlee/paper-implementations/tree/main/FBSJNN)
 
-    4.1. One-dimensional pure jump equation
+    Implemented Example: 4.1. One-dimensional pure jump equation
 
 ### Each folder includes:
 - Code (PyTorch, Numpy, Matplotlib, etc.)
