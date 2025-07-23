@@ -1,7 +1,10 @@
 # paper-implementations
-This repository contains personal implementations of major **Machine Learning for PDEs** papers
+This repository contains personal implementations of major **ML/AI** papers
 
 ## Papers Included
+
+**[Machine Learning for PDEs papers]**
+
 - [Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations](https://github.com/surinlee/paper-implementations/tree/main/Physics%20Informed%20Deep%20Learning%20(Part%20I))
   
     Implemented Example : 2.2. Example (Schrödinger Equation)
