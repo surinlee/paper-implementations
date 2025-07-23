@@ -27,7 +27,5 @@ This repository contains personal implementations of major **ML/AI** papers
 - My notes and experimental results
 
 If you have any questions, suggestions, or encounter any issues,  
-
 please open an issue in the [Issues tab](../../issues).  
-
 I'd be happy to discuss or help!
