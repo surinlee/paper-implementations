@@ -9,7 +9,7 @@ This repository contains personal implementations of major **ML/AI** papers
   
     Implemented Example : 2.2. Example (Schrödinger Equation)
 
-- [The Deep Ritz method: A deep learning-based numerical algorithm for solving variational problems](https://arxiv.org/abs/1710.00211)
+- The Deep Ritz method: A deep learning-based numerical algorithm for solving variational problems
   
     Implemented Example: 3.1. The Poisson equation in two dimension
 
